@@ -3,9 +3,15 @@ welcome to Online Store!
 
 Category
 
-Women Section
+Women Section:
+* Ethnic Wear
+* Western Wear
 
-Men Section
+
+Men Section:
+* Ethnic Wear
+* Western Wear
+
 
 Children Section
 
